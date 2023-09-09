@@ -1,0 +1,10 @@
+.boton{
+    border-radius: 10px;
+    background: #6278F7;
+    border: none;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    padding: 24px 32px;
+    color: white;
+    margin: 32px 0;
+}
