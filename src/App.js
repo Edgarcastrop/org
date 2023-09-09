@@ -22,7 +22,7 @@ function App() {
       fav: false
     },
     {
-      id: uuid(),
+      id: uuidv4(),
       equipo: "Front End",
       foto: "https://github.com/harlandlohora.png",
       nombre: "Harland Lohora",
@@ -30,7 +30,7 @@ function App() {
       fav: true
     },
     {
-      id: uuid(),
+      id: uuidv4(),
       equipo: "Programación",
       foto: "https://github.com/genesysaluralatam.png",
       nombre: "Genesys Rondón",
@@ -38,7 +38,7 @@ function App() {
       fav: false
     },
     {
-      id: uuid(),
+      id: uuidv4(),
       equipo: "UX y Diseño",
       foto: "https://github.com/JeanmarieAluraLatam.png",
       nombre: "Jeanmarie Quijada",
@@ -46,7 +46,7 @@ function App() {
       fav: false
     },
     {
-      id: uuid(),
+      id: uuidv4(),
       equipo: "Programación",
       foto: "https://github.com/christianpva.png",
       nombre: "Christian Velasco",
@@ -54,7 +54,7 @@ function App() {
       fav: false
     },
     {
-      id: uuid(),
+      id: uuidv4(),
       equipo: "Innovación y Gestión",
       foto: "https://github.com/JoseDarioGonzalezCha.png",
       nombre: "Jose Gonzalez",
